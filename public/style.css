@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: #faebd7;
+    color: #403425;
+}
+
+nav{
+    background-color: #403425;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+nav a{
+    color: #faebd7;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#welcome{
+    text-align: center;
+}
+
+#main-content{
+    margin: 0 20px;
+}
+
